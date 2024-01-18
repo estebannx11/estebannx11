@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Esteban Cardona 👋 </h1>
+</div>
 
+Soy Estudiante de Ingenieria de Sistemas
+
+Me gusta el área de la Seguridad Informática
 <!--
 **estebannx11/estebannx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
